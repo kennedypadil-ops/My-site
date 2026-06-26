@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -125,7 +125,7 @@
 
     <div class="details">
       <span class="label">When</span>
-      [Saturday, August 30, 2026] at [6:00 PM]
+      [FRIDAY, August 29, 2026] at [6:00 PM]
 
       <span class="label">Where</span>
       [The Grand Ballroom]<br>
